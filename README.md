@@ -2,4 +2,4 @@
 
 Overview
 
-StarkMine is a decentralized mining protocol built on the StarkNet ecosystem, designed to enable efficient, secure, and scalable mining operations. It leverages zero-knowledge proofs to ensure transparency and trustlessness while optimizing computational resources for miners and validators.
+StarkMine is a decentralized, gamified cryptocurrency mining game on Starknet, designed to make mining accessible, engaging, and integrated with Starknet’s DeFi ecosystem. StarkMine aims to bring new gaming model with lower costs, richer gameplay, and community-driven growth that can flood users to Starknet
